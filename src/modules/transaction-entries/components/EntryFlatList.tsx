@@ -2,8 +2,6 @@ import React from 'react';
 import { View, FlatList, StyleSheet } from 'react-native';
 import { Badge, Text } from '@rneui/base';
 
-
-
 import EntryFlatListItem from './EntryFlatListItem';
 import { ITransactionEntry } from '../types/definitions';
 

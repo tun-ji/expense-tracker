@@ -1,7 +1,6 @@
 import React from 'react';
 import { View, SectionList, StyleSheet } from 'react-native';
 import { Text } from '@rneui/base';
-//import Constants from "expo-constants";
 import EntrySectionListItem from './EntrySectionListItem';
 import { EntriesInDateSections } from '../types/definitions';
 

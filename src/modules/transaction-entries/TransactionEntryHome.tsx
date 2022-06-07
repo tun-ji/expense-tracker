@@ -173,7 +173,7 @@ const TransactionEntryHome: React.FC<Props> = ({ dataSource }) => {
           {displayEntries()}
     
           {/* Below is just a footer message */}
-          <Text style={{ fontSize: 14, fontStyle: "italic", paddingTop: 10 }}>Copyright: Pius Onobhayedo</Text>
+          <Text style={{ fontSize: 14, fontStyle: "italic", paddingTop: 10 }}>Copyright: Oluwatomilola Adeniran</Text>
           </>
       );
     }
